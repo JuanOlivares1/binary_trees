@@ -1,9 +1,7 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "binary_trees.h"
 
 /**
- * binary_tree_preorder - measures the size of a binary tree
+ * binary_tree_size - measures the size of a binary tree
  * @tree: root node
  *
  */
